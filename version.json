@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.0/Setup_DG_Nexus_v2.1.0_Professional.exe",
-  "changelog": "Versión 2.1.0: mejoras de estabilidad, optimización del instalador NSIS y ajustes en el sistema de actualización automática."
+  "version": "2.1.2",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.2/Setup_DG_Nexus_v2.1.2_Professional.exe",
+  "changelog": "Corrección del flujo de actualización automática. El instalador se ejecuta antes del cierre de la app y se añade log de diagnóstico."
 }
