@@ -1,6 +1,5 @@
 {
-  "version": "2.1.11",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.11/Setup_DG_Nexus_v2.1.11_Professional.exe",
-  "changelog": "Correcciones y mejoras de estabilidad. Actualización automática optimizada."
+  "version": "2.1.12",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.12/Setup_DG_Nexus_v2.1.12_Professional.exe",
+  "changelog": "Correcciones y mejoras de estabilidad. Optimización del sistema de actualización automática."
 }
-
