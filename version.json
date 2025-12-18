@@ -1,5 +1,5 @@
 {
-  "version": "2.1.14",
-  "url": "",
-  "changelog": "Actualizaciones temporalmente deshabilitadas por mantenimiento."
+  "version": "2.1.16",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.16/Setup_DG_Nexus_v2.1.16.exe",
+  "changelog": "Correcciones y mejoras de estabilidad. Actualización automática robusta con verificación de integridad."
 }
