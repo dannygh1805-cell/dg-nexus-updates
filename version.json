@@ -1,5 +1,5 @@
 {
-  "version": "2.1.17",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.17/Setup_DG_Nexus_v2.1.17.exe",
-  "changelog": "v2.1.17: Primera versión estable con actualización automática. Mejoras de estabilidad y correcciones del flujo de actualización."
+  "version": "2.1.18",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.1.18/Setup_DG_Nexus_v2.1.18.exe",
+  "changelog": "v2.1.18: Mejoras de estabilidad, ajustes en actualizador (UAC) y correcciones menores."
 }
