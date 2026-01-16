@@ -1,5 +1,5 @@
 {
-  "version": "2.3.19",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.3.19/Setup_DG_Nexus_v2.3.19.exe",
-  "changelog": "v2.3.19: mejoras de estabilidad y correcciones menores."
+  "version": "2.3.20",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.3.20/Setup_DG_Nexus_v2.3.20.exe",
+  "changelog": "v2.3.20: mejoras de estabilidad, rediseño de guardado, blindaje de guardado de calificaciones,implementacion de nuevos roles."
 }
