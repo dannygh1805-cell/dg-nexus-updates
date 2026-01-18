@@ -1,5 +1,5 @@
 {
-  "version": "2.3.37",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.3.37/Setup_DG_Nexus_v2.3.37.exe",
-  "changelog": "v2.3.37:\n- Migración Dinámica: al iniciar la aplicación, el sistema ahora escanea automáticamente todas las tablas definidas en el código, sin excepción.\n- Reparación Universal: si detecta que a cualquier tabla le falta created_at, updated_at (TimestampMixin) o supabase_id, lo agrega al instante.\n\nNota: Este instalador incluye la lógica reforzada. Al instalarlo en las otras PCs, el problema se solucionará automáticamente en el primer inicio."
+  "version": "2.3.39",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.3.39/Setup_DG_Nexus_v2.3.39.exe",
+  "changelog": "v2.3.39: mejoras de estabilidad y correcciones menores."
 }
