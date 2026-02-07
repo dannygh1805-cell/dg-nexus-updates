@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.1/Setup_DG_Nexus_v2.5.1.exe",
-  "changelog": "DG Nexus v2.5.1 incorpora correcciones menores, mejoras de estabilidad y optimización del actualizador."
+  "version": "2.5.2",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.2/Setup_DG_Nexus_v2.5.2.exe",
+  "changelog": "Corrección Crítica: Eliminación Definitiva de Asignaciones Ghost, Parche de Seguridad: Sincronización de Borrados Robusta, Limpieza en Cascada de Parent Snapshots, Lanzamiento de Estabilidad v2.5.2 Pro"
 }
