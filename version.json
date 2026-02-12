@@ -1,10 +1,5 @@
 {
   "version": "2.5.5",
   "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.5/Setup_DG_Nexus_v2.5.5.exe",
-  "changelog": "Protección de Lápidas (Tombstone Protection) bidireccional",
-        "Limpieza automática de asignaciones duplicadas (Auto-Merge)",
-        "Sincronización optimizada al inicio de sesión",
-        "Corrección de Integridad de Datos en Fusión",
-        "Sincronización de Tutoría Bidireccional",
-        "Control de Portal de Padres MaestroEstabilidad General del sistema"
+  "changelog": "v2.5.5: mejoras de estabilidad, refuerzo de seguridad operativa, optimización del motor de sincronización y correcciones menores para un funcionamiento más robusto del sistema."
 }
