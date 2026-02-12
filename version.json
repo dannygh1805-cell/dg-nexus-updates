@@ -1,5 +1,10 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.3/Setup_DG_Nexus_v2.5.3.exe",
-  "changelog": "Reliability Update: Validación de integridad en descargas, Mejora Crítica: Manejo de fallos del updater ante JSON incompleto o corrupto, Protección Operacional: Prevención de instalaciones parciales, Optimización: Verificación previa de versión antes de actualizar, Estabilidad General del sistema"
+  "version": "2.5.5",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.5/Setup_DG_Nexus_v2.5.5.exe",
+  "changelog": "Protección de Lápidas (Tombstone Protection) bidireccional",
+        "Limpieza automática de asignaciones duplicadas (Auto-Merge)",
+        "Sincronización optimizada al inicio de sesión",
+        "Corrección de Integridad de Datos en Fusión",
+        "Sincronización de Tutoría Bidireccional",
+        "Control de Portal de Padres MaestroEstabilidad General del sistema"
 }
