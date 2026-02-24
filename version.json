@@ -1,5 +1,5 @@
 {
-  "version": "2.5.5",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.5/DG_Nexus_Setup_v2.5.9.exe",
-  "changelog": "v2.5.9: mejoras de estabilidad, optimización del sistema de actualización, correcciones menores y ajustes internos de rendimiento."
+  "version": "2.5.9.1",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.5.9.1/DG_Nexus_Setup_v2.5.9.1.exe",
+  "changelog": "v2.5.9.1: hotfix correctivo, ajustes menores de estabilidad y corrección de incidencias detectadas tras la versión 2.5.9."
 }
