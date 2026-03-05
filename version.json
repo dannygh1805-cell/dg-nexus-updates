@@ -1,5 +1,5 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.7.0/DG_Nexus_Setup_v2.7.0.exe",
-  "changelog": "v2.7.0: nueva versión de consolidación con mejoras de estabilidad, optimización del sistema de actualización, ajustes internos de sincronización y refinamientos generales de rendimiento."
+  "version": "2.7.1",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.7.1/DG_Nexus_Setup_v2.7.1.exe",
+  "changelog": "v2.7.1: ajustes de estabilidad, mejoras en el sistema de actualización automática y optimizaciones internas de sincronización."
 }
