@@ -1,5 +1,5 @@
 {
-  "version": "2.8.3",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.8.3/DG_Nexus_Setup_v2.8.3.exe",
-  "changelog": "v2.8.3: optimización del sistema de actualización automática, mejoras en estabilidad de sincronización, corrección de errores en descarga y ajustes internos para mayor rendimiento del sistema, mejora en calculo de promedios de informes trimestrales"
+  "version": "2.8.4",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v2.8.4/DG_Nexus_Setup_v2.8.4.exe",
+  "changelog": "v2.8.4: mejoras de estabilidad general, optimización del sistema de actualización automática, correcciones en el proceso de descarga y ajustes internos para mejorar el rendimiento y la confiabilidad del sistema."
 }
