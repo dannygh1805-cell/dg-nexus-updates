@@ -1,0 +1,11 @@
+{
+    "version": "3.0.1",
+    "name": "DG Nexus",
+    "is_stable": true,
+    "patch_notes": [
+        "Corrección de visualización dinámica de columnas (Amnesia de Columnas)",
+        "Parche de AttributeError en paneles de Refuerzo Académico",
+        "Optimización de pegado masivo desde Excel",
+        "Sincronización robusta de valores nulos"
+    ]
+}
