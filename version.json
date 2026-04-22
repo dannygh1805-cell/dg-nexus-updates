@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
-  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.0.2/DG_Nexus_Setup_v3.0.2.exe",
-  "changelog": "v3.0.2: mejoras de estabilidad general, optimización del sistema de actualización automática y correcciones menores para mejorar el rendimiento del sistema."
+  "version": "3.0.3",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.0.3/DG_Nexus_Setup_v3.0.3.exe",
+  "changelog": "v3.0.3: correcciones menores, mejoras en estabilidad del sistema y ajustes en el proceso de actualización automática."
 }
