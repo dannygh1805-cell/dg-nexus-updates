@@ -1,11 +1,11 @@
 {
-    "version": "3.0.4",
-    "name": "DG Nexus",
+    "version": "3.0.6",
+    "name": "DG Nexus Pro",
     "is_stable": true,
     "patch_notes": [
-        "Corrección de visualización dinámica de columnas (Amnesia de Columnas)",
-        "Parche de AttributeError en paneles de Refuerzo Académico",
-        "Optimización de pegado masivo desde Excel",
-        "Sincronización robusta de valores nulos"
+        "Restauración total del panel Resumen Anual (v3.0.4 baseline)",
+        "Corrección de lógica de promoción en supletorios",
+        "Optimización de carga de estudiantes en dashboard",
+        "Sincronización robusta con Supabase Cloud"
     ]
 }
