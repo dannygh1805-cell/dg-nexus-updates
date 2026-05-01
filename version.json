@@ -3,9 +3,10 @@
     "name": "DG Nexus Pro",
     "is_stable": true,
     "patch_notes": [
-        "Restauración total del panel Resumen Anual (v3.0.4 baseline)",
-        "Corrección de lógica de promoción en supletorios",
-        "Optimización de carga de estudiantes en dashboard",
-        "Sincronización robusta con Supabase Cloud"
+        "Estabilización crítica del sistema de logs y blindaje anti-ruido",
+        "Sincronización Supabase Cloud optimizada para alta carga",
+        "Refuerzo de seguridad HWID y validación de licencias",
+        "Corrección de recursión en hilos de red durante el apagado",
+        "Baseline v3.0.6 oficial para despliegue profesional"
     ]
 }
