@@ -1,12 +1,5 @@
 {
-    "version": "3.0.6",
-    "name": "DG Nexus Pro",
-    "is_stable": true,
-    "patch_notes": [
-        "Estabilización crítica del sistema de logs y blindaje anti-ruido",
-        "Sincronización Supabase Cloud optimizada para alta carga",
-        "Refuerzo de seguridad HWID y validación de licencias",
-        "Corrección de recursión en hilos de red durante el apagado",
-        "Baseline v3.0.6 oficial para despliegue profesional"
-    ]
+  "version": "3.0.7",
+  "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.0.7/DG_Nexus_Setup_v3.0.7.exe",
+  "changelog": "v3.0.7: mejoras de estabilidad, optimización del sistema de actualización automática y ajustes internos para mejorar el rendimiento general del sistema."
 }
