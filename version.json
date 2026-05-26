@@ -3,7 +3,7 @@
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.1.2/Setup_DG_Nexus_v3.1.2_Pro.exe",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/raw/main/DG_Nexus_Update_Bridge.exe",
     "release_date": "2026-05-23",
     "patch_notes": [
         "Nueva tarjeta Web en inicio",
