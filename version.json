@@ -1,14 +1,14 @@
 {
-    "version": "3.1.3",
+    "version": "3.1.4",
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.1.3/Setup_DG_Nexus_v3.1.3_Pro.exe",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.1.4/Setup_DG_Nexus_v3.1.4_Pro.exe",
     "release_date": "2026-05-26",
     "patch_notes": [
-        "Corrección crítica: Reconciliación automática de notas vs nube al iniciar sesión",
-        "Fix: Insumos formativos parciales detectados y re-subidos automáticamente",
-        "Fix: Promedios trimestrales en cero corregidos sin intervención manual",
-        "Fix: Refuerzos formativos y sumativos pendientes de subida detectados y sincronizados"
+        "Corrección crítica: Sistema de auto-sanación de asignaciones para prevenir conflictos en la nube",
+        "Protección total: Las eliminaciones de duplicados locales ya no borran datos (notas, asistencias) sin antes fusionarlos",
+        "Optimizaciones en la sincronización de calificaciones",
+        "Mayor estabilidad general en operaciones offline"
     ]
 }
