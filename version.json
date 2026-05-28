@@ -1,14 +1,14 @@
 {
-    "version": "3.1.4",
+    "version": "3.2.0",
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.1.4/Setup_DG_Nexus_v3.1.4_Pro.exe",
-    "release_date": "2026-05-26",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.2.0/Setup_DG_Nexus_v3.2.0_Pro.exe",
+    "release_date": "2026-05-28",
     "patch_notes": [
-        "Corrección crítica: Sistema de auto-sanación de asignaciones para prevenir conflictos en la nube",
-        "Protección total: Las eliminaciones de duplicados locales ya no borran datos (notas, asistencias) sin antes fusionarlos",
-        "Optimizaciones en la sincronización de calificaciones",
-        "Mayor estabilidad general en operaciones offline"
+        "Nueva opción de Restauración de Notas en la pantalla de inicio del docente",
+        "Visualización optimizada de ventanas emergentes en modo oscuro",
+        "Sistema de auto-curación y reconciliación post-restauración",
+        "Prevención de bucles y duplicados de sincronización"
     ]
 }
