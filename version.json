@@ -1,11 +1,15 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.2.0/Setup_DG_Nexus_v3.2.0_Pro.exe",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.2.1/Setup_DG_Nexus_v3.2.1_Pro.exe",
     "release_date": "2026-05-28",
     "patch_notes": [
+        "[CRITICO] Reparación automática de base de datos corrupta y restauración de notas faltantes",
+        "[SYNC] Reconciliación mejorada: notas locales ausentes en la nube se re-suben automáticamente",
+        "[SMART SYNC] Descarga inteligente: detecta 0 registros locales y fuerza sincronización completa",
+        "[ESTABILIDAD] Eliminación de WAL/SHM residuales que causaban corrupción en cadena",
         "Nueva opción de Restauración de Notas en la pantalla de inicio del docente",
         "Visualización optimizada de ventanas emergentes en modo oscuro",
         "Sistema de auto-curación y reconciliación post-restauración",
