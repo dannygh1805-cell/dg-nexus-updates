@@ -1,16 +1,9 @@
 {
-    "version": "3.3.1",
-    "name": "DG Nexus Pro",
-    "is_stable": true,
-    "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.1/Setup_DG_Nexus_v3.3.1_Pro.exe",
-    "release_date": "2026-06-01",
-    "patch_notes": [
-        "Resolución oficial al cuello de botella en tiempo de inicio (>2 min)",
-        "Mejoras de integridad Auto-Healing en sincronización de cursos (Supabase ID)",
-        "[ARRANQUE] Inicio instantáneo de la app reduciendo la carga de 1 minuto a < 2 segundos (Caché de migración FAST-BOOT + Desactivado UPX)",
-        "[ESTABILIDAD] Solución al error UNIQUE constraint en sincronización de tutorías de SQLite (Autoflush Sync Fix)",
-        "[RENDIMIENTO] Optimización crítica en reconciliación de refuerzos (reducción de minutos a solo 3 segundos)",
-        "[INTEGRIDAD] Sincronización robusta bidireccional libre de loops infinitos de actualización"
-    ]
+    "version": "3.3.2",
+    "release_date": "2026-06-02",
+    "mandatory": true,
+    "changelog": "Resolución de mezcla de asignaciones entre docentes de distintas jornadas. Los cursos ahora mantienen estricta separación entre Matutina y Vespertina.",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.2/Setup_DG_Nexus_v3.3.2_Pro.exe",
+    "file_size": 150000000,
+    "hash": ""
 }
