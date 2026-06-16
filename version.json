@@ -1,17 +1,16 @@
 {
-    "version": "3.3.3",
+    "version": "3.3.5",
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.3/Setup_DG_Nexus_v3.3.3_Pro.exe",
-    "release_date": "2026-06-10",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.5/Setup_DG_Nexus_v3.3.5_Pro.exe",
+    "release_date": "2026-06-16",
     "patch_notes": [
-        "Resolución oficial al cuello de botella en tiempo de inicio (>2 min)",
-        "[SEGURIDAD] Bloqueo a la sobreescritura del estado activo de los estudiantes por docentes durante la sincronización",
-        "[NUEVO] Recomendación emergente y enlace directo a DG Nexus Web en la vista de descarga de Sábanas",
-        "[ARRANQUE] Inicio instantáneo de la app reduciendo la carga de 1 minuto a < 2 segundos",
-        "[ESTABILIDAD] Solución al error UNIQUE constraint en sincronización de tutorías de SQLite",
-        "[RENDIMIENTO] Optimización crítica en reconciliación de refuerzos",
-        "[INTEGRIDAD] Sincronización robusta bidireccional libre de loops infinitos de actualización"
+        "[NUEVO] Panel de Sábanas redirige a la plataforma web para mayor precisión",
+        "[CORRECCION] Zona horaria Ecuador aplicada en fecha de generación de reportes PDF/Excel",
+        "[CORRECCION] Lógica de supletorios aplicada correctamente en exportación PDF y Excel",
+        "[CORRECCION] Nota de supletorio visible de forma sutil en celdas del reporte (s. X.XX)",
+        "[CORRECCION] Estado Reprobado/Aprobado correcto al rendir supletorios en sábana anual",
+        "[CORRECCION] Bucle infinito de actualización resuelto"
     ]
 }
