@@ -1,9 +1,9 @@
 {
-    "version": "3.3.5",
+    "version": "3.3.6",
     "name": "DG Nexus Pro",
     "is_stable": true,
     "required": true,
-    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.5/Setup_DG_Nexus_v3.3.5_Pro.exe",
+    "url": "https://github.com/dannygh1805-cell/dg-nexus-updates/releases/download/v3.3.6/Setup_DG_Nexus_v3.3.6_Pro.exe",
     "release_date": "2026-06-16",
     "patch_notes": [
         "[NUEVO] Panel de Sábanas redirige a la plataforma web para mayor precisión",
@@ -11,6 +11,7 @@
         "[CORRECCION] Lógica de supletorios aplicada correctamente en exportación PDF y Excel",
         "[CORRECCION] Nota de supletorio visible de forma sutil en celdas del reporte (s. X.XX)",
         "[CORRECCION] Estado Reprobado/Aprobado correcto al rendir supletorios en sábana anual",
-        "[CORRECCION] Bucle infinito de actualización resuelto"
+        "[CORRECCION] Bucle infinito de actualización resuelto",
+        "[ESTABILIDAD] Sincronización nube-local validada y estabilizada (1323 registros)"
     ]
 }
